@@ -1,0 +1,8 @@
+﻿File Path,Invoice ID,Invoice Date,Net Total,Tax Total,Total Amount,Descriptions
+./invoice_temp_storage\Invoice_66485.pdf,ERROR,ERROR,ERROR,ERROR,ERROR,"Error: (429) Requests to the Analyze - Analyze document Operation under Form Recognizer 2023-07-31 have exceeded call rate limit of your current FormRecognizer F0 pricing tier. Please retry after 23 seconds. To increase your rate limit switch to a paid tier.
+Code: 429
+Message: Requests to the Analyze - Analyze document Operation under Form Recognizer 2023-07-31 have exceeded call rate limit of your current FormRecognizer F0 pricing tier. Please retry after 23 seconds. To increase your rate limit switch to a paid tier."
+./invoice_temp_storage\Invoice_66486.pdf,66486,2025-02-28,£116.5,£23.3,£139.8,"215/65 R16 HIFLY S2000 TYRE
+KN19 VMH JS 68586
+NSR; VALVE; BALANCE; CALL OUT DAY RATE
+DUNSTABLE TIME ON 10:15 / OFF 10:25"

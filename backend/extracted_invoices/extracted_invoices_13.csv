@@ -1,0 +1,23 @@
+﻿File Path,Invoice ID,Invoice Date,Net Total,Tax Total,Total Amount,Descriptions
+./invoice_temp_storage\Invoice_66481.pdf,66481,2025-02-26,£47.5,£9.5,£57.0,"ABANDONED DAY CALL OUT
+YR72 KXZ JS 68542
+*VEHICLE NOT ON SITE*"
+./invoice_temp_storage\Invoice_66484.pdf,66484,2025-02-28,£98.5,£19.7,£118.2,"195/65 R15 DYNAMO MH01 TYRE
+KY15 GOX JS 68587
+OSR; VALVE; BALANCE; CALL OUT DAY RATE
+FTP, A5 TIME ON 11:25 / OFF 11:35"
+./invoice_temp_storage\Invoice_66486.pdf,66486,2025-02-28,£116.5,£23.3,£139.8,"215/65 R16 HIFLY S2000 TYRE
+KN19 VMH JS 68586
+NSR; VALVE; BALANCE; CALL OUT DAY RATE
+DUNSTABLE TIME ON 10:15 / OFF 10:25"
+./invoice_temp_storage\Invoice_66488.pdf,66488,2025-03-05,£62.5,£12.5,£75.0,"215/65 R16 PUNCTURE REPAIR
+KS17 VLN JS 68627
+OSF; VALVE; BALANCE; CALL OUT DAY RATE
+BEDFORD TIME ON 09:40 / OFF 10:00"
+./invoice_temp_storage\Invoice_66489.pdf,66489,2025-03-05,£62.5,£12.5,£75.0,"205/60 R16 PUNCTURE REPAIR
+KW74 ZNY JS 68628
+NSF; VALVE; BALANCE; CALL OUT DAY RATE
+SANDY TIME ON 10:20 / OFF 10:40"
+./invoice_temp_storage\Invoice_66547.pdf,ERROR,ERROR,ERROR,ERROR,ERROR,"Error: (429) Requests to the Analyze - Get analyze result Operation under Form Recognizer 2023-07-31 have exceeded call rate limit of your current FormRecognizer F0 pricing tier. Please retry after 4 seconds. To increase your rate limit switch to a paid tier.
+Code: 429
+Message: Requests to the Analyze - Get analyze result Operation under Form Recognizer 2023-07-31 have exceeded call rate limit of your current FormRecognizer F0 pricing tier. Please retry after 4 seconds. To increase your rate limit switch to a paid tier."
